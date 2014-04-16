@@ -4,6 +4,5 @@ alias mv='mv -i'
 alias cp='cp -i'
  
 # Add some easy shortcuts for formatted directory listings
-alias ll='ls -lF'
-alias la='ls -alF'
+alias ll='ls -lFa'
 alias ls='ls -F'
