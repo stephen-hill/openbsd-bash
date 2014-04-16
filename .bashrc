@@ -13,6 +13,10 @@ export EDITOR=nano
  
 # Avoid succesive duplicates in the bash command history.
 export HISTCONTROL=ignoredups
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=100000
+HISTFILESIZE=100000
  
 # Append commands to the bash command history file (~/.bash_history)
 # instead of overwriting it.
