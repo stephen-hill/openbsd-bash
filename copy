@@ -1,3 +1,4 @@
 cp ~/.bashrc .
 cp ~/.bash_aliases .
 cp ~/.profile .
+cp ~/.bash_profile .
